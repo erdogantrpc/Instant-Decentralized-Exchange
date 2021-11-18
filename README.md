@@ -3,11 +3,14 @@
  This is an application that allows you to exchange ethereum and DApp Token (Erc-20 Token, also Smart contract is in the repo) on testnet.
  
  ## Requirements
-
+ 
 * [Npm](https://nodejs.org/en/download/)
+* [Web3](https://web3js.readthedocs.io/en/v1.5.2/)
+* [React](https://reactjs.org/)
 * [Truffle](https://trufflesuite.com/)
 * [Ganache](https://www.trufflesuite.com/ganache)
 * [Metamask](https://metamask.io/)
+
 
 ## Installation
 
